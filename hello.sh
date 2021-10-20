@@ -1,1 +1,1 @@
-echo "mahhiii i love you"
+echo "hello"
